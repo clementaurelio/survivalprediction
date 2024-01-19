@@ -1,2 +1,2 @@
-﻿# survivalprediction
-##### Will soon filled (use html)
+﻿# Survival Prediction
+##### I predict survival prediction using various algorithms and compare the results
